@@ -372,7 +372,7 @@
                 startTime: '06:30',
                 dynamic: true,
                 dropdown: true,
-                scrollbar: false
+                scrollbar: false,
             });
     </script>
     <script>
