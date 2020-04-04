@@ -8,7 +8,7 @@
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"
         integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
-    <link rel="icon" href="{{asset('img/nav/logo_PC.svg')}}">
+    <link rel="icon" href="{{asset('/img/nav/logo_PC.svg')}}">
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 
     <link rel="stylesheet" href="{{asset('css/nav_style.css')}}">
@@ -24,7 +24,7 @@
         <nav class="nav_pc_content fixed-top pt-2 px-4 d-flex justify-content-between">
             <div class="logo_pc ml-2">
                 <a href="/home">
-                    <img src="{{asset('img/nav/logo_PC.svg')}}" alt="logo" style="width: 70%;">
+                    <img src="{{asset('/img/nav/logo_PC.svg')}}" alt="logo" style="width: 70%;">
                 </a>
             </div>
 
@@ -41,7 +41,7 @@
 
                 <div class="nav_fb ml-5 mr-2">
                     <a href="https://www.facebook.com/springmountain0425931201/">
-                        <img src="{{asset('img/nav/logo_facebook.svg')}}" alt="link_fb">
+                        <img src="{{asset('/img/nav/logo_facebook.svg')}}" alt="link_fb">
                     </a>
                 </div>
             </div>
@@ -54,7 +54,7 @@
     <nav class="nav fixed-top">
         <div class="logo_small">
             <a href="#">
-                <img src="{{asset('img/nav/logo_small.svg')}}" alt="logo">
+                <img src="{{asset('/img/nav/logo_small.svg')}}" alt="logo">
             </a>
         </div>
 
