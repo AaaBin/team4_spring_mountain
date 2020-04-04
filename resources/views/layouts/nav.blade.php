@@ -11,7 +11,7 @@
     <link rel="icon" href="{{asset('/img/nav/logo_PC.svg')}}">
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 
-    <link rel="stylesheet" href="{{asset('css/nav_style.css')}}">
+    <link rel="stylesheet" href="{{asset('/css/nav_style.css')}}">
 
     @yield('css')
 </head>
