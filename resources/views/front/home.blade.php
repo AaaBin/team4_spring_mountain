@@ -3,7 +3,7 @@
 {{-- CSS --}}
 @section('css')
 <link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.min.css">
-<link rel="stylesheet" href="{{asset('css/home_style.css')}}">
+<link rel="stylesheet" href="{{asset('/css/home_style.css')}}">
 <style>
     .navbar_pc {
         display: none !important;

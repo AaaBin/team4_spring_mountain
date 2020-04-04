@@ -2,7 +2,7 @@
 
 {{-- CSS --}}
 @section('css')
-<link rel="stylesheet" href="{{asset('css/flower_style.css')}}">
+<link rel="stylesheet" href="{{asset('/css/flower_style.css')}}">
 <style>
     .flower_condition_recent_content{
         min-width: 100%;

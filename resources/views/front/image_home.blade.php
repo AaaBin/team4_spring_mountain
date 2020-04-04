@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Spring Mountain</title>
     <link href="https://fonts.googleapis.com/css?family=Dancing+Script&display=swap" rel="stylesheet">
-    <link rel="icon" href="{{asset('img/nav/logo_PC.svg')}}">
+    <link rel="icon" href="{{asset('/img/nav/logo_PC.svg')}}">
     <link href="https://fonts.googleapis.com/css?family=Monsieur+La+Doulaise&display=swap" rel="stylesheet">
     <style>
         body {

@@ -5,7 +5,7 @@
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.css" />
 <!-- timepicker -->
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/timepicker/1.3.5/jquery.timepicker.min.css">
-<link rel="stylesheet" href="{{asset('css/booking_style.css')}}">
+<link rel="stylesheet" href="{{asset('/css/booking_style.css')}}">
 <style>
     .price_block2 {
         cursor: pointer;

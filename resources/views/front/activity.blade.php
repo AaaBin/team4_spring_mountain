@@ -2,7 +2,7 @@
 
 {{-- CSS --}}
 @section('css')
-<link rel="stylesheet" href="{{asset('css/activity_style.css')}}">
+<link rel="stylesheet" href="{{asset('/css/activity_style.css')}}">
 @endsection
 
 {{-- 內容 --}}

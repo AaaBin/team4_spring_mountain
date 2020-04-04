@@ -1,7 +1,7 @@
 @extends('layouts/nav')
 
 @section('css')
-<link rel="stylesheet" href="{{asset('css/booking_record_style.css')}}">
+<link rel="stylesheet" href="{{asset('/css/booking_record_style.css')}}">
 <style>
     .booking_record_search .container {
         max-width: 300px;
